@@ -1,0 +1,3362 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href="11.1.files/filelist.xml">
+<style id="11.1_21021_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font521021
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font621021
+	{color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;}
+.font721021
+	{color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;}
+.xl6321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:none;
+	background:#5B9BD5;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:none;
+	background:#5B9BD5;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:20.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:2.0pt double windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:none;
+	border-left:none;
+	background:#5B9BD5;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid white;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:none;
+	background:#5B9BD5;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:none;
+	background:#5B9BD5;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid white;
+	border-bottom:.5pt solid white;
+	border-left:none;
+	background:#5B9BD5;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl15921021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16021021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:"\@";
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16121021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16221021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16321021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#70AD47;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16421021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:red;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16521021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16621021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:2.0pt double windowtext;
+	border-left:none;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16721021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:#DDEBF7;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl16821021
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:微软雅黑, sans-serif;
+	mso-font-charset:134;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:bottom;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+ruby
+	{ruby-align:left;}
+rt
+	{color:windowtext;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:等线;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-char-type:none;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>　　<![endif]-->
+<!--下列信息由 Microsoft Excel 的发布为网页向导生成。-->
+<!--如果同一条目从 Excel 中重新发布，则所有位于 DIV 标记之间的信息均将被替换。-->
+<!----------------------------->
+<!--“从 EXCEL 发布网页”向导开始-->
+<!----------------------------->
+
+<div id="11.1_21021" align=center x:publishsource="Excel">
+
+<table border=0 cellpadding=0 cellspacing=0 width=1282 class=xl6553521021
+ style='border-collapse:collapse;table-layout:fixed;width:964pt'>
+ <col class=xl6553521021 width=38 style='mso-width-source:userset;mso-width-alt:
+ 1216;width:29pt'>
+ <col class=xl6553521021 width=32 style='mso-width-source:userset;mso-width-alt:
+ 1024;width:24pt'>
+ <col class=xl6553521021 width=53 style='mso-width-source:userset;mso-width-alt:
+ 1696;width:40pt'>
+ <col class=xl6553521021 width=81 style='mso-width-source:userset;mso-width-alt:
+ 2592;width:61pt'>
+ <col class=xl6553521021 width=45 span=2 style='mso-width-source:userset;
+ mso-width-alt:1440;width:34pt'>
+ <col class=xl6553521021 width=212 style='mso-width-source:userset;mso-width-alt:
+ 6784;width:159pt'>
+ <col class=xl6553521021 width=72 style='width:54pt'>
+ <col class=xl6553521021 width=77 style='mso-width-source:userset;mso-width-alt:
+ 2464;width:58pt'>
+ <col class=xl9221021 width=77 style='mso-width-source:userset;mso-width-alt:
+ 2464;width:58pt'>
+ <col class=xl6553521021 width=77 style='mso-width-source:userset;mso-width-alt:
+ 2464;width:58pt'>
+ <col class=xl6553521021 width=226 style='mso-width-source:userset;mso-width-alt:
+ 7232;width:170pt'>
+ <col class=xl6553521021 width=247 style='mso-width-source:userset;mso-width-alt:
+ 7904;width:185pt'>
+ <tr height=37 style='height:27.75pt'>
+  <td height=37 class=xl6553521021 width=38 style='height:27.75pt;width:29pt'></td>
+  <td class=xl7521021 colspan=7 width=540 style='width:406pt'>富融2018年4季度常用精品成本及销售价</td>
+  <td class=xl7721021 colspan=5 width=704 style='width:529pt'>外采精品对外报价约为含税成本的1.8倍，实际成交价原则上不低于含税成本的1.4-1.45
+  倍</td>
+ </tr>
+  <!-- start http://count.knowsky.com -->
+<script src="http://count.knowsky.com/count1/count.asp?id=351122&sx=1&ys=42" language="JavaScript" charset="gb2312"></script>
+<!-- Powered by http://www.knowsky.com -->
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6321021>序</td>
+  <td class=xl6321021>供应商</td>
+  <td class=xl6321021>型号</td>
+  <td class=xl6321021>类别</td>
+  <td class=xl6321021>品牌</td>
+  <td class=xl6321021>名称</td>
+  <td class=xl6421021>对外报价</td>
+  <td class=xl6421021>实际成交价</td>
+  <td class=xl10121021>含税成本</td>
+  <td class=xl10021021>最低出库价</td>
+  <td class=xl6421021>备注</td>
+  <td class=xl6321021>编码</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl6521021>1</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>全车系</td>
+  <td class=xl6521021>美容</td>
+  <td class=xl6521021>雷朋</td>
+  <td class=xl7821021>美容套餐(膜.装甲.镀晶.覆膜）</td>
+  <td class=xl6521021>4000</td>
+  <td class=xl9321021>2800</td>
+  <td class=xl6921021>1880</td>
+  <td class=xl10221021>2800</td>
+  <td class=xl7821021>　</td>
+  <td class=xl6621021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6721021>2</td>
+  <td class=xl6721021>美车佳</td>
+  <td class=xl6721021>全车系</td>
+  <td class=xl6721021>美容</td>
+  <td class=xl6721021>雷朋</td>
+  <td class=xl7921021>全车膜</td>
+  <td class=xl6721021>2000</td>
+  <td class=xl9421021>1500</td>
+  <td class=xl8921021>642</td>
+  <td class=xl10321021>1000</td>
+  <td class=xl6821021>套餐单项成本</td>
+  <td class=xl6821021>B01-FS-570/B01-RS-520</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6521021>3</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>全车系</td>
+  <td class=xl6521021>美容</td>
+  <td class=xl6521021>其它</td>
+  <td class=xl7821021>镀晶</td>
+  <td class=xl6521021>1620</td>
+  <td class=xl9321021>1300</td>
+  <td class=xl6921021>743</td>
+  <td class=xl10221021>1080</td>
+  <td class=xl6621021>套餐单项成本</td>
+  <td class=xl6621021>300.QT1148-L01-0004</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6721021>4</td>
+  <td class=xl6721021>美车佳</td>
+  <td class=xl6721021>全车系</td>
+  <td class=xl6721021>美容</td>
+  <td class=xl6721021>其它</td>
+  <td class=xl7921021>底盘装甲</td>
+  <td class=xl6721021>864</td>
+  <td class=xl9421021>540</td>
+  <td class=xl8921021>372</td>
+  <td class=xl10321021>540</td>
+  <td class=xl6821021>套餐单项成本</td>
+  <td class=xl6821021>300.G-03-1008</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl11521021>5</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>美容</td>
+  <td class=xl11521021>龙膜</td>
+  <td class=xl11621021>全车隐形车衣</td>
+  <td class=xl11521021>29000</td>
+  <td class=xl11721021>　</td>
+  <td class=xl11821021>约17000</td>
+  <td class=xl11921021>　</td>
+  <td class=xl12021021>进口材料，整车没有施工过</td>
+  <td class=xl12021021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl13221021>6</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>内饰</td>
+  <td class=xl13221021>骏龙</td>
+  <td class=xl13321021>全包脚垫</td>
+  <td class=xl13221021>700</td>
+  <td class=xl13421021>600</td>
+  <td class=xl13521021>350</td>
+  <td class=xl13621021>420</td>
+  <td class=xl14921021>革面</td>
+  <td class=xl16721021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl11521021>7</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>内饰</td>
+  <td class=xl11521021>骏龙</td>
+  <td class=xl11621021>后备箱垫</td>
+  <td class=xl11521021>300</td>
+  <td class=xl11721021>200</td>
+  <td class=xl11821021>100</td>
+  <td class=xl11921021>120</td>
+  <td class=xl12521021>革面</td>
+  <td class=xl16821021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>8</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>内饰</td>
+  <td class=xl13221021>其它</td>
+  <td class=xl13321021>养生座垫</td>
+  <td class=xl13221021>1300</td>
+  <td class=xl13421021>1000</td>
+  <td class=xl13521021>650</td>
+  <td class=xl13621021>950</td>
+  <td class=xl13321021>织物</td>
+  <td class=xl13821021>　</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl11521021>9</td>
+  <td class=xl12221021>美车佳</td>
+  <td class=xl12221021>全车系</td>
+  <td class=xl12221021>内饰</td>
+  <td class=xl12221021>其它</td>
+  <td class=xl12321021>双层丝圈脚垫</td>
+  <td class=xl12221021>720</td>
+  <td class=xl11721021>580</td>
+  <td class=xl11821021>400</td>
+  <td class=xl11921021>　</td>
+  <td class=xl12321021>全包基础上加一层防滑丝圈</td>
+  <td class=xl12321021>暂无</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>10</td>
+  <td class=xl13921021>美车佳</td>
+  <td class=xl13921021>全车系</td>
+  <td class=xl13921021>内饰</td>
+  <td class=xl13921021>其它</td>
+  <td class=xl14021021>高档木制后备箱垫</td>
+  <td class=xl13921021>1600</td>
+  <td class=xl13421021>新品</td>
+  <td class=xl13521021>新品</td>
+  <td class=xl13621021>新品</td>
+  <td class=xl14021021>没有进过</td>
+  <td class=xl14121021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl11521021>11</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>外饰</td>
+  <td class=xl11521021>其它</td>
+  <td class=xl11621021>前后挡泥板</td>
+  <td class=xl11521021>500</td>
+  <td class=xl11721021>400</td>
+  <td class=xl11821021>260</td>
+  <td class=xl11921021>360</td>
+  <td class=xl11621021>　</td>
+  <td class=xl12021021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>12</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>外饰</td>
+  <td class=xl13221021>其它</td>
+  <td class=xl13321021>钛合金发动机下护板</td>
+  <td class=xl13221021>1000</td>
+  <td class=xl13421021>　</td>
+  <td class=xl13521021>约350</td>
+  <td class=xl13621021>　</td>
+  <td class=xl13321021>金属材质,供应商较多，要询价</td>
+  <td class=xl13821021>300.QT1033.G01-0*</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl11521021>13</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>迈卡盾</td>
+  <td class=xl11621021>双录隐藏式行车记录仪</td>
+  <td class=xl11521021>1800</td>
+  <td class=xl11721021>1800</td>
+  <td class=xl11821021>980</td>
+  <td class=xl11921021>1800</td>
+  <td class=xl12521021>前后双录</td>
+  <td class=xl12021021>300.QT1146-A01-0018/02/03/19</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl13221021>14</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>精能</td>
+  <td class=xl13321021>360全景环影无导航</td>
+  <td class=xl13221021>6500</td>
+  <td class=xl13421021>5200</td>
+  <td class=xl13521021>3600</td>
+  <td class=xl13621021>4800</td>
+  <td class=xl13721021>　</td>
+  <td class=xl13821021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl11521021>15</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>其它</td>
+  <td class=xl11621021>VPS定位+3年盗抢险</td>
+  <td class=xl11521021>3000</td>
+  <td class=xl11721021>1700</td>
+  <td class=xl11821021>1080</td>
+  <td class=xl11921021>1300</td>
+  <td class=xl12521021>最低价不含安装工时400</td>
+  <td class=xl12021021>300.QT1142-A01-0002</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl13221021>16</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>凌度</td>
+  <td class=xl13321021>A206外挂行车记录仪+8G卡</td>
+  <td class=xl13221021>720</td>
+  <td class=xl13421021>580</td>
+  <td class=xl13521021>398</td>
+  <td class=xl13621021>420</td>
+  <td class=xl13721021>V40不能用</td>
+  <td class=xl13821021>300.JYJ163-A01-0004</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl9221021 style='height:16.5pt'>常用</td>
+  <td class=xl11521021>17</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>凌度</td>
+  <td class=xl11621021>A305隐藏式行车记录仪-无卡</td>
+  <td class=xl11521021>900</td>
+  <td class=xl11721021>700</td>
+  <td class=xl11821021>520</td>
+  <td class=xl11921021>650</td>
+  <td class=xl12121021>V40可用 <font class="font621021">SD卡另加<span
+  style='mso-spacerun:yes'> </span></font></td>
+  <td class=xl12021021>300.JYJ163-A01-0023/20</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>18</td>
+  <td class=xl13921021>美车佳</td>
+  <td class=xl13921021>全车系</td>
+  <td class=xl13921021>电器</td>
+  <td class=xl13921021>其它</td>
+  <td class=xl14021021>一脚踢尾箱感应开启系统</td>
+  <td class=xl13921021>1000</td>
+  <td class=xl13421021>800</td>
+  <td class=xl13521021>550</td>
+  <td class=xl13621021>660</td>
+  <td class=xl14021021>带电尾车型才能用</td>
+  <td class=xl14021021>300.QT1128-A01-0009</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl11521021>19</td>
+  <td class=xl11521021>美车佳</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>道镜</td>
+  <td class=xl11621021>多功能后视镜-道镜7377</td>
+  <td class=xl11521021>3100</td>
+  <td class=xl11721021>2500</td>
+  <td class=xl11821021>1680</td>
+  <td class=xl11921021>　</td>
+  <td class=xl11621021>导航，倒影，前后行车记录</td>
+  <td class=xl11621021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>20</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>安智杰</td>
+  <td class=xl13321021>盲区监测</td>
+  <td class=xl13221021>4800</td>
+  <td class=xl13421021>4800</td>
+  <td class=xl13521021>约2180</td>
+  <td class=xl13621021>4800</td>
+  <td class=xl13321021>没装过</td>
+  <td class=xl13321021>300.QT1412-A01-A01-0003/02</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl11521021>21</td>
+  <td class=xl12221021>美车佳</td>
+  <td class=xl12221021>全车系</td>
+  <td class=xl12221021>改装</td>
+  <td class=xl12221021>捷成</td>
+  <td class=xl12321021>改内饰（包皮质座椅和门板）</td>
+  <td class=xl12221021>4600</td>
+  <td class=xl11721021>3700</td>
+  <td class=xl11821021>2550</td>
+  <td class=xl11921021>3060</td>
+  <td class=xl12121021>革面，后期有不平整及异响隐患</td>
+  <td class=xl12421021>300.JYJ005-E01-0006</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>22</td>
+  <td class=xl13921021>美车佳</td>
+  <td class=xl13921021>全车系</td>
+  <td class=xl13921021>改装</td>
+  <td class=xl13921021>其它</td>
+  <td class=xl14021021>星空顶改装(车内顶部氛围灯)</td>
+  <td class=xl13921021>4500</td>
+  <td class=xl13421021>新品</td>
+  <td class=xl13521021>新品</td>
+  <td class=xl13621021>新品</td>
+  <td class=xl14021021>劳斯莱斯幻影同款</td>
+  <td class=xl14121021>300.G-04-1019</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl11521021>23</td>
+  <td class=xl12221021>美车佳</td>
+  <td class=xl12221021>全车系</td>
+  <td class=xl12221021>改装</td>
+  <td class=xl12221021>其它</td>
+  <td class=xl12321021>天使之翼迎宾灯(车外氛围灯)</td>
+  <td class=xl12221021>700</td>
+  <td class=xl11721021>新品</td>
+  <td class=xl11821021>新品</td>
+  <td class=xl11921021>新品</td>
+  <td class=xl12321021>宝马7系迎宾灯同款</td>
+  <td class=xl12421021>300.QT1374-A01-0001</td>
+ </tr>
+ <tr class=xl6553521021 height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>24</td>
+  <td class=xl13921021>美车佳</td>
+  <td class=xl13921021>SPA平台</td>
+  <td class=xl13921021>改装</td>
+  <td class=xl13921021>其它</td>
+  <td class=xl14021021>沃尔沃实木内饰改装</td>
+  <td class=xl13921021>5500</td>
+  <td class=xl13421021>新品</td>
+  <td class=xl13521021>约3300</td>
+  <td class=xl13621021>新品</td>
+  <td class=xl14021021>实木、胡桃木。效果要询</td>
+  <td class=xl14121021>300.QT563-D01-0001</td>
+ </tr>
+ <tr class=xl6553521021 height=23 style='height:17.25pt'>
+  <td height=23 class=xl9221021 style='height:17.25pt'>常用</td>
+  <td class=xl12621021>25</td>
+  <td class=xl12621021>美车佳</td>
+  <td class=xl12621021>SPA平台</td>
+  <td class=xl12621021>电器</td>
+  <td class=xl12621021>仿原厂</td>
+  <td class=xl12721021>宝华中置喇叭+喇叭罩</td>
+  <td class=xl12621021>5800</td>
+  <td class=xl12821021>4600</td>
+  <td class=xl12921021>3180</td>
+  <td class=xl13021021>3816</td>
+  <td class=xl13121021>仿原厂，广州国产件</td>
+  <td class=xl13121021>300.QT1591-A01-0001/02</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl6721021>26</td>
+  <td class=xl6721021>美车佳</td>
+  <td class=xl6721021>新XC60</td>
+  <td class=xl6721021>外饰</td>
+  <td class=xl6721021>铂威</td>
+  <td class=xl7921021>固定踏板（无漆）</td>
+  <td class=xl6721021>4200</td>
+  <td class=xl9421021>3300</td>
+  <td class=xl8921021>2280</td>
+  <td class=xl10321021>2800</td>
+  <td class=xl7921021>不含喷漆工时600</td>
+  <td class=xl6821021>300.QT1033-G01-0201</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6521021>27</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>新XC60</td>
+  <td class=xl6521021>电器</td>
+  <td class=xl6521021>中策</td>
+  <td class=xl7821021>电动踏板</td>
+  <td class=xl6521021>7200</td>
+  <td class=xl9321021>5800</td>
+  <td class=xl6921021>3980</td>
+  <td class=xl10221021>4800</td>
+  <td class=xl7821021>　</td>
+  <td class=xl6621021>300.QT1114-A01-0032</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6721021>28</td>
+  <td class=xl6721021>美车佳</td>
+  <td class=xl6721021>新XC60</td>
+  <td class=xl6721021>电器</td>
+  <td class=xl6721021>精能</td>
+  <td class=xl7921021>电动尾门</td>
+  <td class=xl6721021>4500</td>
+  <td class=xl9421021>3600</td>
+  <td class=xl8921021>2480</td>
+  <td class=xl10321021>3300</td>
+  <td class=xl7921021>　</td>
+  <td class=xl6821021>300.QT1129-A01-0026</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl7121021>29</td>
+  <td class=xl7121021>美车佳</td>
+  <td class=xl7121021>新XC60</td>
+  <td class=xl7121021>电器</td>
+  <td class=xl7121021>精能</td>
+  <td class=xl8221021>倒车影像</td>
+  <td class=xl7121021>3500</td>
+  <td class=xl9521021>3000</td>
+  <td class=xl7021021>1980</td>
+  <td class=xl10421021>2400</td>
+  <td class=xl8121021>　</td>
+  <td class=xl7221021>300.QT1129-A01-0024</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl6721021>30</td>
+  <td class=xl6721021>美车佳</td>
+  <td class=xl6721021>新XC90</td>
+  <td class=xl6721021>外饰</td>
+  <td class=xl6721021>铂威</td>
+  <td class=xl7921021>固定踏板（无漆）</td>
+  <td class=xl6721021>4500</td>
+  <td class=xl9421021>3600</td>
+  <td class=xl8921021>2500</td>
+  <td class=xl10321021>3000</td>
+  <td class=xl7921021>不含喷漆工时600</td>
+  <td class=xl6821021>300.QT867-G01-0688</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6521021>31</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>新XC90</td>
+  <td class=xl6521021>电器</td>
+  <td class=xl6521021>中策</td>
+  <td class=xl7821021>电动踏板</td>
+  <td class=xl6521021>7700</td>
+  <td class=xl9321021>6360</td>
+  <td class=xl6921021>4300</td>
+  <td class=xl10221021>6360</td>
+  <td class=xl7821021>　</td>
+  <td class=xl6621021>300.QT1114-A01-0019</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl7321021>32</td>
+  <td class=xl7321021>美车佳</td>
+  <td class=xl7321021>新XC90</td>
+  <td class=xl7321021>电器</td>
+  <td class=xl7321021>精能</td>
+  <td class=xl8321021>倒车影像</td>
+  <td class=xl7321021>3500</td>
+  <td class=xl9621021>3000</td>
+  <td class=xl9021021>1980</td>
+  <td class=xl10521021>2400</td>
+  <td class=xl8421021>　</td>
+  <td class=xl7421021>300.QT1129-A01-0024</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl6521021>33</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>S90L</td>
+  <td class=xl6521021>电器</td>
+  <td class=xl6521021>精能</td>
+  <td class=xl7821021>倒车影像</td>
+  <td class=xl6521021>3500</td>
+  <td class=xl9321021>3000</td>
+  <td class=xl6921021>1980</td>
+  <td class=xl10221021>2400</td>
+  <td class=xl8521021></td>
+  <td class=xl6621021>300.QT1129-A01-0024</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl7321021>34</td>
+  <td class=xl7321021>美车佳</td>
+  <td class=xl7321021>S90L</td>
+  <td class=xl7321021>电器</td>
+  <td class=xl7321021>精能</td>
+  <td class=xl8321021>电动尾门</td>
+  <td class=xl7321021>4500</td>
+  <td class=xl9621021>3600</td>
+  <td class=xl9021021>2480</td>
+  <td class=xl10521021>3300</td>
+  <td class=xl8321021>　</td>
+  <td class=xl7421021>　</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl6521021>35</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>S60L -18</td>
+  <td class=xl6521021>电器</td>
+  <td class=xl6521021>天鉴</td>
+  <td class=xl7821021>电动尾门</td>
+  <td class=xl6521021>4300</td>
+  <td class=xl9321021>3500</td>
+  <td class=xl6921021>2380</td>
+  <td class=xl10221021>3000</td>
+  <td class=xl7821021>　</td>
+  <td class=xl6621021>300.QT1113-A01-0003</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl13221021>36</td>
+  <td class=xl13221021>美车佳</td>
+  <td class=xl13221021>S60L -18</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>一谷</td>
+  <td class=xl13321021>盲区监测</td>
+  <td class=xl13221021>4000</td>
+  <td class=xl13421021>4000</td>
+  <td class=xl13521021>2650</td>
+  <td class=xl13621021>4000</td>
+  <td class=xl13321021>现货</td>
+  <td class=xl13821021>399.JP-QCDQ-MQJC-S60/XC60</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl6521021>37</td>
+  <td class=xl6521021>美车佳</td>
+  <td class=xl6521021>S60L -18</td>
+  <td class=xl6521021>外饰</td>
+  <td class=xl6521021>其它</td>
+  <td class=xl7821021>发动机下护板</td>
+  <td class=xl6521021>500</td>
+  <td class=xl9321021>300</td>
+  <td class=xl6921021>160</td>
+  <td class=xl10221021>240</td>
+  <td class=xl7821021>现货。玻璃钢材质</td>
+  <td class=xl6621021>399.JP-WSJ-XHBXC60</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl16121021>38</td>
+  <td class=xl16121021>美车佳</td>
+  <td class=xl16121021>S60L V40</td>
+  <td class=xl16121021>电器</td>
+  <td class=xl16121021>精能</td>
+  <td class=xl16221021>倒车影像</td>
+  <td class=xl16121021>3000</td>
+  <td class=xl16321021>2500</td>
+  <td class=xl16421021>1680</td>
+  <td class=xl16521021>2100</td>
+  <td class=xl16221021>　</td>
+  <td class=xl16621021>300.QT1129-A01-9T164850021</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl10621021></td>
+  <td class=xl10621021></td>
+  <td class=xl10621021></td>
+  <td class=xl10621021></td>
+  <td class=xl10621021></td>
+  <td class=xl7621021></td>
+  <td class=xl10621021></td>
+  <td class=xl11121021></td>
+  <td class=xl11221021></td>
+  <td class=xl11321021></td>
+  <td class=xl7621021></td>
+  <td class=xl11421021></td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl10921021>序</td>
+  <td class=xl10921021>供应商</td>
+  <td class=xl10921021>型号</td>
+  <td class=xl10921021>类别</td>
+  <td class=xl10921021>品牌</td>
+  <td class=xl10921021>名称</td>
+  <td class=xl6421021>报价</td>
+  <td class=xl6421021>实际成交价</td>
+  <td class=xl11021021>含税成本</td>
+  <td class=xl10021021>最低出库价</td>
+  <td class=xl6421021>备注</td>
+  <td class=xl10921021>编码</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>1</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>SPA平台</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>阳光达</td>
+  <td class=xl11621021>隐藏式行车记录仪</td>
+  <td class=xl11521021>3000</td>
+  <td class=xl11721021>　</td>
+  <td class=xl11821021>1775</td>
+  <td class=xl11921021>　</td>
+  <td class=xl12521021>含安装工时200</td>
+  <td class=xl12021021>9430780</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>2</td>
+  <td class=xl13521021>美车佳</td>
+  <td class=xl13521021>SPA平台</td>
+  <td class=xl13521021>电器</td>
+  <td class=xl14621021>原厂</td>
+  <td class=xl14721021>宝华中置喇叭+喇叭罩</td>
+  <td class=xl13521021>6600</td>
+  <td class=xl13521021>5500</td>
+  <td class=xl13521021>3680</td>
+  <td class=xl13521021>4500</td>
+  <td class=xl14821021>不提供，改供付厂产品</td>
+  <td class=xl14721021>17686.38277.29157.50432</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>3</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>SPA平台</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>空气PM2.5传感器</td>
+  <td class=xl11521021>1079</td>
+  <td class=xl11721021>1079</td>
+  <td class=xl11821021>755</td>
+  <td class=xl11921021>1079</td>
+  <td class=xl12521021>　</td>
+  <td class=xl12021021>31485573</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>4</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>SPA平台</td>
+  <td class=xl13221021>外饰</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13321021>发动机下护板</td>
+  <td class=xl13221021>5200</td>
+  <td class=xl13421021>5200</td>
+  <td class=xl13521021>1899</td>
+  <td class=xl13621021>4975</td>
+  <td class=xl13321021>不含安装工时225</td>
+  <td class=xl13821021>31399006</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>5</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>精品</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>汽车1:18模型</td>
+  <td class=xl11521021>700</td>
+  <td class=xl11721021>700</td>
+  <td class=xl11821021>346</td>
+  <td class=xl11921021>700</td>
+  <td class=xl12521021>　</td>
+  <td class=xl12021021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>5</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>精品</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>儿童电动童车</td>
+  <td class=xl11521021>5888</td>
+  <td class=xl11721021>5888</td>
+  <td class=xl11821021>1300-1833</td>
+  <td class=xl11921021>5888</td>
+  <td class=xl12521021>　</td>
+  <td class=xl12021021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>6</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>附件</td>
+  <td class=xl13221021>Britax</td>
+  <td class=xl13321021>安全座椅-婴儿，</td>
+  <td class=xl13221021>3510</td>
+  <td class=xl13421021>3510</td>
+  <td class=xl13521021>2680</td>
+  <td class=xl13621021>3510</td>
+  <td class=xl14921021>小于13KG,不大于1岁.</td>
+  <td class=xl13821021>31659269 英国宝得适</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>7</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>附件</td>
+  <td class=xl11521021>Britax</td>
+  <td class=xl11621021>安全座椅-儿童，<font class="font721021">后向式</font></td>
+  <td class=xl11521021>4095</td>
+  <td class=xl11721021>4095</td>
+  <td class=xl11821021>3126</td>
+  <td class=xl11921021>4095</td>
+  <td class=xl12521021>9KG-25KG,9个月到6岁</td>
+  <td class=xl12021021>31659270 英国宝得适</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>8</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>附件</td>
+  <td class=xl13221021>Britax</td>
+  <td class=xl13321021>安全座椅-儿童</td>
+  <td class=xl13221021>3510</td>
+  <td class=xl13421021>3510</td>
+  <td class=xl13521021>2680</td>
+  <td class=xl13621021>3510</td>
+  <td class=xl14921021>15KG-36KG,3到10岁</td>
+  <td class=xl13821021>31659271 英国宝得适</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>9</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>全车系</td>
+  <td class=xl11521021>附件</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>头枕-黑色</td>
+  <td class=xl11521021>638</td>
+  <td class=xl11721021>638</td>
+  <td class=xl11821021>487</td>
+  <td class=xl11921021>638</td>
+  <td class=xl12521021>　</td>
+  <td class=xl12021021>31470560</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>10</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>全车系</td>
+  <td class=xl13221021>附件</td>
+  <td class=xl13221021>英德尔</td>
+  <td class=xl13321021>车载冰箱 12L</td>
+  <td class=xl13221021>3739</td>
+  <td class=xl13421021>3739</td>
+  <td class=xl13521021>2410</td>
+  <td class=xl13621021>3739</td>
+  <td class=xl14921021>12L&nbsp;广州英德尔</td>
+  <td class=xl13821021>31110250/31110269<span style='mso-spacerun:yes'> </span></td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl14221021>11</td>
+  <td class=xl14221021>原厂</td>
+  <td class=xl14221021>全车系</td>
+  <td class=xl14221021>附件</td>
+  <td class=xl14221021>原厂</td>
+  <td class=xl14321021>颈枕-黑色/米色</td>
+  <td class=xl14221021>638</td>
+  <td class=xl12821021>638</td>
+  <td class=xl12921021>487</td>
+  <td class=xl13021021>638</td>
+  <td class=xl14421021>　</td>
+  <td class=xl14521021>31470559/31470561</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl13221021>12</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>S60 -18</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13321021>360全景环影</td>
+  <td class=xl13221021>8126</td>
+  <td class=xl13421021>8126</td>
+  <td class=xl13521021>4011</td>
+  <td class=xl13621021>8126</td>
+  <td class=xl14921021>含软件，不含工时500-800</td>
+  <td class=xl15121021>31110277.31285245</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>13</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>S60 -18</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>倒车影像</td>
+  <td class=xl11521021>5430</td>
+  <td class=xl11721021>5460</td>
+  <td class=xl11821021>3545</td>
+  <td class=xl11921021>5430</td>
+  <td class=xl12521021>含软件，不含工时500-800</td>
+  <td class=xl12021021>32204199/200.31373814</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl15221021>14</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15221021>S60 -18</td>
+  <td class=xl15221021>外饰件</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15321021>发动机下护板</td>
+  <td class=xl15221021>4707</td>
+  <td class=xl15221021>4707</td>
+  <td class=xl15421021>1755</td>
+  <td class=xl15521021>4482</td>
+  <td class=xl15621021>最低价不含工时。老款S60L</td>
+  <td class=xl15721021>31370000</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl11521021>15</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>新XC90</td>
+  <td class=xl11521021>外饰</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>固定踏板带氛围灯（无漆）</td>
+  <td class=xl11521021>15000</td>
+  <td class=xl11721021>15000</td>
+  <td class=xl11821021>9475.6</td>
+  <td class=xl11921021>13974</td>
+  <td class=xl11621021 colspan=2>最低价不含油漆钣金机电1500工时</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>16</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>新XC90</td>
+  <td class=xl13221021>外饰</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13321021>前后挡泥板</td>
+  <td class=xl13221021>1305</td>
+  <td class=xl13421021>1305</td>
+  <td class=xl13521021>868</td>
+  <td class=xl13621021>1305</td>
+  <td class=xl13321021>含安装工时100</td>
+  <td class=xl13821021>31414645/31664101</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl14221021>17</td>
+  <td class=xl14221021>原厂</td>
+  <td class=xl14221021>新XC90 18-</td>
+  <td class=xl14221021>电器</td>
+  <td class=xl14221021>原厂</td>
+  <td class=xl14321021>倒车影像</td>
+  <td class=xl14221021>5634</td>
+  <td class=xl14221021>5634</td>
+  <td class=xl12921021>3724</td>
+  <td class=xl13021021>5634</td>
+  <td class=xl14421021>不含工时，型号随年款变化</td>
+  <td class=xl14521021>32259555/32207903/31454888</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl13221021>18</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>S90L</td>
+  <td class=xl13221021>外饰</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13321021>前后挡泥板</td>
+  <td class=xl13221021>933</td>
+  <td class=xl13421021>933</td>
+  <td class=xl13521021>563</td>
+  <td class=xl13621021>933</td>
+  <td class=xl13321021>含安装工时100</td>
+  <td class=xl15121021>31439243/31439244</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>19</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>S90L</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>倒车影像-暂无</td>
+  <td class=xl11521021>　</td>
+  <td class=xl11721021>　</td>
+  <td class=xl11821021>　</td>
+  <td class=xl11921021>　</td>
+  <td class=xl11621021>　</td>
+  <td class=xl15021021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>20</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>S90L</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13321021>导航地图</td>
+  <td class=xl13221021>9915</td>
+  <td class=xl13421021>9915</td>
+  <td class=xl13521021>2974</td>
+  <td class=xl13621021>9915</td>
+  <td class=xl13721021>不含安装工时，装仪表必刷地图</td>
+  <td class=xl15121021>31664681</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>21</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>S90L -18</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>12.3寸数字仪表-<font class="font721021">前装导航地图</font></td>
+  <td class=xl11521021>7470</td>
+  <td class=xl11721021>7470</td>
+  <td class=xl11821021>5470</td>
+  <td class=xl11921021>7470</td>
+  <td class=xl12121021>不含安装工时，19款S90不能用</td>
+  <td class=xl15021021>32204235.31665962</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl15221021>22</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15221021>S90L 19-</td>
+  <td class=xl15221021>电器</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15321021>12.3寸数字仪表-<font class="font721021">前装导航地图</font></td>
+  <td class=xl15221021>16352</td>
+  <td class=xl15821021>16352</td>
+  <td class=xl15421021>13082</td>
+  <td class=xl15521021>16352</td>
+  <td class=xl15921021>不含安装工时，暂不能订购</td>
+  <td class=xl16021021>36003188.31665962</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl11521021>23</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>新XC60</td>
+  <td class=xl11521021>外饰</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>前后挡泥板</td>
+  <td class=xl11521021>1696</td>
+  <td class=xl11721021>1696</td>
+  <td class=xl11821021>1092</td>
+  <td class=xl11921021>1696</td>
+  <td class=xl11621021>含安装工时100</td>
+  <td class=xl15021021>31435991/31435990</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl13221021>24</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13221021>新XC60</td>
+  <td class=xl13221021>电器</td>
+  <td class=xl13221021>原厂</td>
+  <td class=xl13721021>12.3寸液晶数字仪表-暂无</td>
+  <td class=xl13221021>　</td>
+  <td class=xl13421021>　</td>
+  <td class=xl13521021>　</td>
+  <td class=xl13621021>　</td>
+  <td class=xl13321021>　</td>
+  <td class=xl15121021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl10821021 style='height:16.5pt'></td>
+  <td class=xl11521021>24</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>新XC60</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>导航地图</td>
+  <td class=xl11521021>10000</td>
+  <td class=xl11721021>10000</td>
+  <td class=xl11821021>2974</td>
+  <td class=xl11921021>10000</td>
+  <td class=xl11621021>不含安装工时</td>
+  <td class=xl15021021>　</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl15221021>25</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15221021>新XC60</td>
+  <td class=xl15221021>电器</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15321021>倒车影像</td>
+  <td class=xl15221021>5634</td>
+  <td class=xl15821021>5634</td>
+  <td class=xl15421021>3724</td>
+  <td class=xl15521021>5634</td>
+  <td class=xl15621021>不含工时，型号随年款变化</td>
+  <td class=xl16021021>32259556/32207903/31454888</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl11521021>26</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11521021>V40</td>
+  <td class=xl11521021>电器</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl11621021>隐藏式行车记录仪</td>
+  <td class=xl11521021>2100</td>
+  <td class=xl11721021>2100</td>
+  <td class=xl11821021>1301</td>
+  <td class=xl11921021>2100</td>
+  <td class=xl12521021>含安装工时200</td>
+  <td class=xl12021021>9430781</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl15221021>27</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15221021>V40</td>
+  <td class=xl15221021>外饰</td>
+  <td class=xl15221021>原厂</td>
+  <td class=xl15321021>发动机下护板</td>
+  <td class=xl15221021>4350</td>
+  <td class=xl15821021>4350</td>
+  <td class=xl15421021>1618</td>
+  <td class=xl15521021>4125</td>
+  <td class=xl15621021>最低价不含安装工时225</td>
+  <td class=xl15721021>31414674</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl11521021>28</td>
+  <td class=xl11521021>原厂</td>
+  <td class=xl6521021>XC40</td>
+  <td class=xl6521021>　</td>
+  <td class=xl6521021>　</td>
+  <td class=xl7821021>　</td>
+  <td class=xl6521021>　</td>
+  <td class=xl9321021>　</td>
+  <td class=xl6921021>　</td>
+  <td class=xl10221021>　</td>
+  <td class=xl8021021>　</td>
+  <td class=xl6621021>　</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl10821021 style='height:17.25pt'></td>
+  <td class=xl6721021>29</td>
+  <td class=xl7321021>原厂</td>
+  <td class=xl7321021>XC40</td>
+  <td class=xl7321021>　</td>
+  <td class=xl7321021>　</td>
+  <td class=xl8321021>　</td>
+  <td class=xl7321021>　</td>
+  <td class=xl9621021>　</td>
+  <td class=xl9021021>　</td>
+  <td class=xl10521021>　</td>
+  <td class=xl10721021>　</td>
+  <td class=xl7421021>　</td>
+ </tr>
+ <tr height=23 style='height:17.25pt'>
+  <td height=23 class=xl6553521021 style='height:17.25pt'></td>
+  <td class=xl8621021 colspan=11>注1.低于最低出库价出库则必须走金碟审批流，销售经理9折权限，店总85折权限。如果低于85折则要写情况说明审批到品牌总监或董事长。</td>
+  <td class=xl6621021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl7621021 colspan=6>注2.随车赠送精品金蝶无法打折。关于工时减免请咨询相关人员</td>
+  <td class=xl7621021></td>
+  <td class=xl7621021></td>
+  <td class=xl8521021></td>
+  <td class=xl9921021></td>
+  <td class=xl7621021></td>
+  <td class=xl6621021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl7621021 colspan=6>注3.红色数字是成本，绿色数字是标准销售价。</td>
+  <td class=xl7621021></td>
+  <td class=xl7621021></td>
+  <td class=xl8521021></td>
+  <td class=xl9921021></td>
+  <td class=xl7621021></td>
+  <td class=xl6621021>　</td>
+ </tr>
+ <tr height=22 style='height:16.5pt'>
+  <td height=22 class=xl6553521021 style='height:16.5pt'></td>
+  <td class=xl7621021 colspan=5>注4.更新日期：2018年11月8日</td>
+  <td class=xl7621021></td>
+  <td class=xl7621021></td>
+  <td class=xl7621021></td>
+  <td class=xl8521021></td>
+  <td class=xl9921021></td>
+  <td class=xl7621021></td>
+  <td class=xl7621021></td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl6553521021 style='height:14.25pt'></td>
+  <td class=xl8721021 colspan=3>written by <a href="mailto:540009202@qq.com"> yin </a></td>
+  <td class=xl6553521021></td>
+  <td class=xl6553521021></td>
+  <td class=xl6553521021></td>
+  <td class=xl6553521021></td>
+  <td class=xl6553521021></td>
+  <td class=xl9221021></td>
+  <td class=xl6553521021></td>
+  <td class=xl6553521021></td>
+  <td class=xl6553521021></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=38 style='width:29pt'></td>
+  <td width=32 style='width:24pt'></td>
+  <td width=53 style='width:40pt'></td>
+  <td width=81 style='width:61pt'></td>
+  <td width=45 style='width:34pt'></td>
+  <td width=45 style='width:34pt'></td>
+  <td width=212 style='width:159pt'></td>
+  <td width=72 style='width:54pt'></td>
+  <td width=77 style='width:58pt'></td>
+  <td width=77 style='width:58pt'></td>
+  <td width=77 style='width:58pt'></td>
+  <td width=226 style='width:170pt'></td>
+  <td width=247 style='width:185pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--“从 EXCEL 发布网页”向导结束-->
+<!----------------------------->
+</body>
+
+</html>
